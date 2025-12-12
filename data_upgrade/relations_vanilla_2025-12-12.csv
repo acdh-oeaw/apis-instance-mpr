@@ -1,0 +1,281 @@
+id,name,name_reverse,object,subject
+31,Träger/in von,wurde verliehen an,Person,Institution
+35,Mitarbeiter,,Person,Institution
+36,Mitarbeiter >> leitender Mitarbeiter,,Person,Institution
+37,Mitarbeiter >> leitender Mitarbeiter >> Sektionschef,,Person,Institution
+39,Mitarbeiter >> leitender Mitarbeiter >> Ministerialrat,,Person,Institution
+40,Mitarbeiter >> leitender Mitarbeiter >> Sektionsrat,,Person,Institution
+41,Mitarbeiter >> Ministerialsekretär,,Person,Institution
+42,Mitarbeiter >> leitender Mitarbeiter >> Oberlandesgerichtsrat,,Person,Institution
+45,Mitarbeiter >> Statthaltereirat,,Person,Institution
+53,Kreisgerichtspräsident,,Person,Institution
+54,Mitarbeiter >> leitender Mitarbeiter >> Statthalter,,Person,Institution
+55,Mitarbeiter >> leitender Mitarbeiter >> Landesverweser,,Person,Institution
+56,Mitarbeiter >> leitender Mitarbeiter >> Wirtschaftskommissär,,Person,Institution
+57,Mitarbeiter >> leitender Mitarbeiter >> Finanzsekretär,,Person,Institution
+58,Abgeordneter in,,Person,Institution
+59,Mitglied von,,Person,Institution
+64,Vertreter von,wird vertreten durch,Person,Institution
+66,Mitarbeiter >> Sekretär,,Person,Institution
+67,Mitarbeiter >> leitender Mitarbeiter >> Generalsekretär,,Person,Institution
+68,Mitarbeiter >> Inspektor,,Person,Institution
+69,Mitarbeiter >> Oberinspektor,,Person,Institution
+70,Mitarbeiter >> Kontrollor,,Person,Institution
+71,Mitarbeiter >> Oberkontrollor,,Person,Institution
+72,Mitarbeiter >> leitender Mitarbeiter >> Präsident des Generalrates,,Person,Institution
+73,Mitarbeiter >> leitender Mitarbeiter >> Direktor,,Person,Institution
+74,Mitarbeiter >> Prokurist,,Person,Institution
+75,Mitarbeiter >> leitender Mitarbeiter >> Direktor-Stellvertreter,,Person,Institution
+76,Mitarbeiter >> leitender Mitarbeiter >> Mit-Chef,,Person,Institution
+77,Mitarbeiter >> leitender Mitarbeiter >> Chef,,Person,Institution
+78,Gesellschafter,,Person,Institution
+79,Adelstitel,,Person,Institution
+80,Adelstitel >> Freiherr/Freifrau,,Person,Institution
+81,Adelstitel >> Edle/r,,Person,Institution
+83,Mitarbeiter >> leitender Mitarbeiter >> Gremialrat,,Person,Institution
+84,Mitarbeiter >> leitender Mitarbeiter >> Oberrechnungsrat,,Person,Institution
+89,Mitarbeiter >> leitender Mitarbeiter >> Generaldirektor,,Person,Institution
+93,Mitarbeiter >> leitender Mitarbeiter >> Direktor der Zweigstelle,,Person,Institution
+95,Mitarbeiter >> leitender Mitarbeiter >> Zentralinspektor,,Person,Institution
+96,Mitarbeiter >> leitender Mitarbeiter >> Finanzbezirksdirektor,,Person,Institution
+107,Mitarbeiter >> leitender Mitarbeiter >> Vorstand,,Person,Institution
+109,Mitarbeiter >> leitender Mitarbeiter >> Prokurator,,Person,Institution
+110,Adelstitel >> Ritter,,Person,Institution
+111,Adelstitel >> Graf/Gräfin,,Person,Institution
+112,Adelstitel >> Fürst/in,,Person,Institution
+113,Mitarbeiter >> leitender Mitarbeiter >> Finanzrat,,Person,Institution
+114,Mitarbeiter >> leitender Mitarbeiter >> Finanzlandesdirektor,,Person,Institution
+115,Mitarbeiter >> leitender Mitarbeiter >> Finanzlandesdirektor Stv.,,Person,Institution
+116,Mitarbeiter >> leitender Mitarbeiter >> Oberfinanzrat,,Person,Institution
+119,Mitarbeiter >> leitender Mitarbeiter >> Oberbergrat,,Person,Institution
+120,Mitarbeiter >> leitender Mitarbeiter >> Gouverneur,,Person,Institution
+122,Mitarbeiter >> leitender Mitarbeiter >> Vizepräsident,,Person,Institution
+123,Mitarbeiter >> leitender Mitarbeiter >> Landespräsident,,Person,Institution
+129,Redakteur,,Person,Institution
+130,Redakteur >> Redakteur I. Klasse,,Person,Institution
+131,Mitarbeiter >> Inspektor >> Generalinspektor,,Person,Institution
+134,Mitarbeiter >> leitender Mitarbeiter >> Präsident,,Person,Institution
+135,EmpfängerIn von,,Person,Institution
+138,Mitarbeiter >> leitender Mitarbeiter >> Finanzwachoberrespizient,,Person,Institution
+147,Mitarbeiter >> leitender Mitarbeiter >> Hilfsämteroberdirektor,,Person,Institution
+150,Ritter von,,Person,Institution
+152,Mitarbeiter >> Konzipist,,Person,Institution
+158,Mitarbeiter >> leitender Mitarbeiter >> Leiter,,Person,Institution
+160,Mitarbeiter >> leitender Mitarbeiter >> Steuerlandesinspektor,,Person,Institution
+176,Minister des kaiserlichen und königlichen Hauses und des Äußeren,,Person,Institution
+177,Leiter des Ministeriums des kaiserlichen Hauses und des Äußeren,,Person,Institution
+178,Reichsfinanzminister ,,Person,Institution
+179,Leiter des Reichsfinanzministeriums,,Person,Institution
+180,Reichs-Kriegsminister ,,Person,Institution
+181,Kriegsminister,,Person,Institution
+182,Chef der Marinesektion im Reichskriegsministerium,,Person,Institution
+183,Ministerpräsident Cisleithanien,,Person,Institution
+184,Vizepräsident Cisleithanien,,Person,Institution
+185,Innenminister Cisleithanien,,Person,Institution
+186,Unterrichtsminister Cisleithanien,,Person,Institution
+187,Justizminister Cisleithanien,,Person,Institution
+188,Minister für Landesverteidigung Cisleithanien,,Person,Institution
+189,Finanzminister Cisleithanien,,Person,Institution
+190,Handelsminister Cisleithanien,,Person,Institution
+191,Ackerbauminister Cisleithanien,,Person,Institution
+192,Minister ohne Geschäftsbereich,,Person,Institution
+193,Staatsminister für Galizien,,Person,Institution
+194,Leiter des Ministeriums für Landesverteidigung Cisleithanien,,Person,Institution
+195,Leiter des Unterrichtsministeriums Cisleithanien,,Person,Institution
+196,Tschechischer Landsmannminister,,Person,Institution
+197,Deutscher Landsmannminister,,Person,Institution
+198,Leiter Unterrichtsministerium Cisleithanien,,Person,Institution
+199,Leiter Justizministerium Cisleithanien,,Person,Institution
+200,Leiter Handelsministerium Cisleithanien,,Person,Institution
+201,Leiter Ackerbauministerium Cisleithanien,,Person,Institution
+202,Leiter Staatsministerium für Galizien,,Person,Institution
+203,Eisenbahnminister,,Person,Institution
+204,Leiter Innenministerium Cisleithanien,,Person,Institution
+205,Minister für Öffentliche Arbeiten,,Person,Institution
+206,Minister für Kultus und Unterricht Cisleithanien,,Person,Institution
+209,Ernährungsamt,,Person,Institution
+210,Leiter Ministerium für Ackerbau (?) Cisleithanien,,Person,Institution
+211,Leiter Ministerium für Landesverteidigung Cisleithanien,,Person,Institution
+212,Minister für Volksernährung,,Person,Institution
+213,Minister für soziale Fürsorge,,Person,Institution
+214,Minister für Volksgesundheit,,Person,Institution
+215,Slowenischer Landmannminister,,Person,Institution
+237,Ministerpräsident Ungarn,,Person,Institution
+240,Finanzminister Ungarn,,Person,Institution
+312,"Justizminister (Österreich, 1848-1860)","(Justizminister (Österreich, 1848-1860))",Person,Institution
+316,Telegrafendirektionssekretär,,Person,Institution
+317,Minister des kaiserlichen Hauses und des Äußern,(Minister des kaiserlichen Hauses und des Äußern),Person,Institution
+318,Vertreter von >> Referent,,Person,Institution
+319,Generalmajor,(Generalmajor),Person,Institution
+320,Mitarbeiter >> leitender Mitarbeiter >> Direktor >> Finanzprokurator,(Finanzprokurator),Person,Institution
+321,"Handelsminister (Österreich, 1848-1860)","(Handelsminister (Österreich, 1848-1860))",Person,Institution
+323,Unterstaatssekretär,(Unterstaatssekretär),Person,Institution
+326,Mitarbeiter >> leitender Mitarbeiter >> provisorischer Vorstand,provisorisch geleitet durch,Person,Institution
+328,Ministerpräsident (provisorisch),Ministerpräsident (provisorisch) [REVERSE],Person,Institution
+329,Minister des Inneren,Minister des Inneren [REVERSE],Person,Institution
+330,Minister des öffentlichen Unterrichts (interimistisch),Minister des öffentlichen Unterrichts (interimistisch) [REVERSE],Person,Institution
+331,Justizminister,Justizminister [REVERSE],Person,Institution
+332,Finanzminister,Finanzminister [REVERSE],Person,Institution
+333,Ministerpräsident (interimistisch),Ministerpräsident (interimistisch) [REVERSE],Person,Institution
+334,Minister des kaiserlichen Hauses und des Äußeren,Minister des kaiserlichen Hauses und des Äußeren [REVERSE],Person,Institution
+335,Minister der öffentlichen Arbeiten,Minister der öffentlichen Arbeiten [REVERSE],Person,Institution
+336,Handelsminister,Handelsminister [REVERSE],Person,Institution
+337,Minister des Inneren (interimistisch),Minister des Inneren (interimistisch) [REVERSE],Person,Institution
+338,Ministerpräsident,Ministerpräsident [REVERSE],Person,Institution
+339,Minister des öffentlichen Unterrichts (provisorisch),Minister des öffentlichen Unterrichts (provisorisch) [REVERSE],Person,Institution
+340,Finanzminister (provisorisch),Finanzminister (provisorisch) [REVERSE],Person,Institution
+341,Minister der öffentlichen Arbeiten (provisorisch),Minister der öffentlichen Arbeiten (provisorisch) [REVERSE],Person,Institution
+342,Leiter des Außenministeriums,Leiter des Außenministeriums [REVERSE],Person,Institution
+343,Landmarschall,Landmarschall [REVERSE],Person,Institution
+344,Oberkommandant,Oberkommandant [REVERSE],Person,Institution
+345,"Oberstkämmerer, Obersthofmeisterstellvertreter","Oberstkämmerer, Obersthofmeisterstellvertreter [REVERSE]",Person,Institution
+346,Oberpolizeidirektor,Oberpolizeidirektor [REVERSE],Person,Institution
+347,Hofrat,Hofrat [REVERSE],Person,Institution
+348,Universitätsprofessor,Universitätsprofessor [REVERSE],Person,Institution
+349,Dekan,Dekan [REVERSE],Person,Institution
+350,Mitglied,Mitglied [REVERSE],Person,Institution
+351,General,General [REVERSE],Person,Institution
+352,Supplent,Supplent [REVERSE],Person,Institution
+353,Minister für Kultus und Unterricht (provisorisch),Minister für Kultus und Unterricht (provisorisch) [REVERSE],Person,Institution
+354,Minister für Kultus und Unterricht (interimistisch),Minister für Kultus und Unterricht (interimistisch) [REVERSE],Person,Institution
+355,Minister für Kultus und Unterricht,Minister für Kultus und Unterricht [REVERSE],Person,Institution
+356,"Minister für Handel, Gewerbe und öffentliche Bauten","Minister für Handel, Gewerbe und öffentliche Bauten [REVERSE]",Person,Institution
+357,Minister für Landeskultur und Bergwesen,Minister für Landeskultur und Bergwesen [REVERSE],Person,Institution
+358,Minister ohne Portefeuille,Minister ohne Portefeuille [REVERSE],Person,Institution
+360,Stellvertreter des Zivil- und Militärgouverneurs,Stellvertreter des Zivil- und Militärgouverneurs [REVERSE],Person,Institution
+361,Kriegsministerstellvertreter,Kriegsministerstellvertreter [REVERSE],Person,Institution
+362,Zivil- und Militärgouverneur,Zivil- und Militärgouverneur [REVERSE],Person,Institution
+364,Provisorischer General-Artilleriedirektor,Provisorischer General-Artilleriedirektor [REVERSE],Person,Institution
+365,General-Artilleriedirektor,General-Artilleriedirektor [REVERSE],Person,Institution
+367,Obersthofmeister des Kaisers,Obersthofmeister des Kaisers [REVERSE],Person,Institution
+368,Generaladjutant des Kaisers,Generaladjutant des Kaisers [REVERSE],Person,Institution
+369,provisorischer Landeschef,provisorischer Landeschef [REVERSE],Person,Institution
+370,Abgeordneter,Abgeordneter [REVERSE],Person,Institution
+371,Ehemaliger Hofkanzler von Siebenbürgen,Ehemaliger Hofkanzler von Siebenbürgen [REVERSE],Person,Institution
+372,Ehemaliger Hofkammerpräsident,Ehemaliger Hofkammerpräsident [REVERSE],Person,Institution
+373,Präsident des Reichsrates,Präsident des Reichsrates [REVERSE],Person,Institution
+374,Kabinettskanzleidirektor,Kabinettskanzleidirektor [REVERSE],Person,Institution
+375,Vorsitzender (Präsident) der Ministerkonferenz,Vorsitzender (Präsident) der Ministerkonferenz [REVERSE],Person,Institution
+377,Kriegsminister (provisorisch),Kriegsminister (provisorisch) [REVERSE],Person,Institution
+378,Zweiter Generaladjutant des Kaisers,Zweiter Generaladjutant des Kaisers [REVERSE],Person,Institution
+379,Minister der Justiz,Minister der Justiz [REVERSE],Person,Institution
+380,Minister der Finanzen,Minister der Finanzen [REVERSE],Person,Institution
+382,Militär- und Zivilgouverneur,Militär- und Zivilgouverneur [REVERSE],Person,Institution
+383,Erster Generaladjutant des Kaisers,Erster Generaladjutant des Kaisers [REVERSE],Person,Institution
+385,Generalauditor,Generalauditor [REVERSE],Person,Institution
+386,Vorsitzender,Vorsitzender [REVERSE],Person,Institution
+387,Erster Generaladjutant,Erster Generaladjutant [REVERSE],Person,Institution
+388,Zugeteilter,Zugeteilter [REVERSE],Person,Institution
+389,Adlatus für Zivilangelegenheiten,Adlatus für Zivilangelegenheiten [REVERSE],Person,Institution
+390,Kanzleidirektor,Kanzleidirektor [REVERSE],Person,Institution
+391,Minister des kaiserlichen Hauses des Äußern,Minister des kaiserlichen Hauses des Äußern [REVERSE],Person,Institution
+392,Generalgouverneur,Generalgouverneur [REVERSE],Person,Institution
+393,Stellvertreter des Finanzministers,Stellvertreter des Finanzministers [REVERSE],Person,Institution
+394,Erster Generaladjutant des Kaisers und der Armee und Vorstand der Militärzentralkanzlei,Erster Generaladjutant des Kaisers und der Armee und Vorstand der Militärzentralkanzlei [REVERSE],Person,Institution
+395,Stellvertreter des Ersten Generaladjutanten Sr. Majestät,Stellvertreter des Ersten Generaladjutanten Sr. Majestät [REVERSE],Person,Institution
+396,Ehemaliger ungarischer Hofkanzler,Ehemaliger ungarischer Hofkanzler [REVERSE],Person,Institution
+397,Erster Generaladjutant des Kaisers und der Armee und Vorstand der Ministerratskanzlei,Erster Generaladjutant des Kaisers und der Armee und Vorstand der Ministerratskanzlei [REVERSE],Person,Institution
+398,Stellvertreter des Banus,Stellvertreter des Banus [REVERSE],Person,Institution
+399,Vorsitzender der Ministerkonferenz,Vorsitzender der Ministerkonferenz [REVERSE],Person,Institution
+400,Polizeiminister,Polizeiminister [REVERSE],Person,Institution
+401,provisorischer Leiter,provisorischer Leiter [REVERSE],Person,Institution
+402,Stellvertretender Chef,Stellvertretender Chef [REVERSE],Person,Institution
+403,Stellvertretender Leiter,Stellvertretender Leiter [REVERSE],Person,Institution
+404,Ban,Ban [REVERSE],Person,Institution
+405,Kommandierender General,Kommandierender General [REVERSE],Person,Institution
+406,Mitglied des verstärkten Reichsrates,Mitglied des verstärkten Reichsrates [REVERSE],Person,Institution
+407,Staatsminister,Staatsminister [REVERSE],Person,Institution
+408,Ungarischer Hofkanzler,Ungarischer Hofkanzler [REVERSE],Person,Institution
+409,provisorischer Präsident,provisorischer Präsident [REVERSE],Person,Institution
+410,Präsident des kroatisch-slawonischen Hofdikasteriums,Präsident des kroatisch-slawonischen Hofdikasteriums [REVERSE],Person,Institution
+411,Tavernikus,Tavernikus [REVERSE],Person,Institution
+412,Judex Curiae,Judex Curiae [REVERSE],Person,Institution
+413,Zweiter ungarischer Hofkanzler,Zweiter ungarischer Hofkanzler [REVERSE],Person,Institution
+414,Vorsitzender (Präsident) des Ministerrates,Vorsitzender (Präsident) des Ministerrates [REVERSE],Person,Institution
+415,Minister für Handel und Volkswirtschaft,Minister für Handel und Volkswirtschaft [REVERSE],Person,Institution
+416,Staatsratspräsident,Staatsratspräsident [REVERSE],Person,Institution
+417,Siebenbürgischer Hofkanzler,Siebenbürgischer Hofkanzler [REVERSE],Person,Institution
+418,"Hofrat bei der siebenbürgischen Hofkanzlei, vom 19.09.1861 bis 07.11.1861 mit deren Leitung betraut","Hofrat bei der siebenbürgischen Hofkanzlei, vom 19.09.1861 bis 07.11.1861 mit deren Leitung betraut [REVERSE]",Person,Institution
+419,Designierter Statthalter,Designierter Statthalter [REVERSE],Person,Institution
+420,Bischof,Bischof [REVERSE],Person,Institution
+421,Vertreter des Marineoberkommandanten im Reichsrat,Vertreter des Marineoberkommandanten im Reichsrat [REVERSE],Person,Institution
+422,Leiter der siebenbürgischen Hofkanzlei,Leiter der siebenbürgischen Hofkanzlei [REVERSE],Person,Institution
+423,Kroatisch-slawonischer Hofkanzler,Kroatisch-slawonischer Hofkanzler [REVERSE],Person,Institution
+424,zugeteilter Referent,zugeteilter Referent [REVERSE],Person,Institution
+425,Oberst,Oberst [REVERSE],Person,Institution
+426,Generalkriegskommissär,Generalkriegskommissär [REVERSE],Person,Institution
+427,Minister für Handel- und Volkswirtschaft,Minister für Handel- und Volkswirtschaft [REVERSE],Person,Institution
+428,Leiter des Marineministeriums,Leiter des Marineministeriums [REVERSE],Person,Institution
+429,Marineminister,Marineminister [REVERSE],Person,Institution
+430,Ungarischer Vizehofkanzler,Ungarischer Vizehofkanzler [REVERSE],Person,Institution
+431,Stellvertreter des siebenbürgischen Hofkanzlers,Stellvertreter des siebenbürgischen Hofkanzlers [REVERSE],Person,Institution
+432,Kontreadmiral,Kontreadmiral [REVERSE],Person,Institution
+433,Oberst des Marine-Zeugskorps,Oberst des Marine-Zeugskorps [REVERSE],Person,Institution
+434,Kardinal und Fürsterzbischof,Kardinal und Fürsterzbischof [REVERSE],Person,Institution
+435,Ehemaliger Leiter,Ehemaliger Leiter [REVERSE],Person,Institution
+436,Siebenbürgischer Vizehofkanzler,Siebenbürgischer Vizehofkanzler [REVERSE],Person,Institution
+437,Legationsrat,Legationsrat [REVERSE],Person,Institution
+438,Botschafter,Botschafter [REVERSE],Person,Institution
+440,Leiter des Ministeriums für Handel und Volkswirtschaft,Leiter des Ministeriums für Handel und Volkswirtschaft [REVERSE],Person,Institution
+441,Marineministerstellvertreter,Marineministerstellvertreter [REVERSE],Person,Institution
+442,Botschafter in Paris,Botschafter in Paris [REVERSE],Person,Institution
+443,Gesandter,Gesandter [REVERSE],Person,Institution
+444,Stellvertreter des kroatischen Hofkanzlers,Stellvertreter des kroatischen Hofkanzlers [REVERSE],Person,Institution
+445,Gubernialpräsident,Gubernialpräsident [REVERSE],Person,Institution
+446,Präsident der Obersten Rechnungskontrollbehörde,Präsident der Obersten Rechnungskontrollbehörde [REVERSE],Person,Institution
+447,Hof- und Ministerialrat,Hof- und Ministerialrat [REVERSE],Person,Institution
+448,Oberpostrat,Oberpostrat [REVERSE],Person,Institution
+449,provisorischer Leiter des Polizeiministeriums,provisorischer Leiter des Polizeiministeriums [REVERSE],Person,Institution
+450,Bauadjunkt,Bauadjunkt [REVERSE],Person,Institution
+451,Stellvertreter des Kriegsministers,Stellvertreter des Kriegsministers [REVERSE],Person,Institution
+452,Generalgendarmerieinspektor,Generalgendarmerieinspektor [REVERSE],Person,Institution
+453,Hofvizekanzler,Hofvizekanzler [REVERSE],Person,Institution
+454,Vorsitzender des Ministerrates,Vorsitzender des Ministerrates [REVERSE],Person,Institution
+455,Minister des Äußern,Minister des Äußern [REVERSE],Person,Institution
+456,Minister des kaiserlichen Hauses,Minister des kaiserlichen Hauses [REVERSE],Person,Institution
+457,Präsident der Obersten Rechnungskontrollsbehörde,Präsident der Obersten Rechnungskontrollsbehörde [REVERSE],Person,Institution
+458,Leiter und Generaldirektor für Post- und Telegrafenangelegenheiten,Leiter und Generaldirektor für Post- und Telegrafenangelegenheiten [REVERSE],Person,Institution
+459,Generalinspektor der österreichischen Eisenbahnen,Generalinspektor der österreichischen Eisenbahnen [REVERSE],Person,Institution
+460,Hofsekretär,Hofsekretär [REVERSE],Person,Institution
+464,Bürgermeister,Gemeinde wird verwaltet von,Person,Institution
+483,hat teilgenommen an,unter Beteiligung von,Person,Institution
+646,Leiter des Finanzministeriums,(Leiter des Finanzministeriums),Person,Institution
+670,beauftragt,beauftragt von,Person,Institution
+30,spouseOf,spouseOf,Person,Person
+125,childOf,parentof,Person,Person
+127,parentOf,childof,Person,Person
+128,siblingOf,siblingOf,Person,Person
+473,isTranslatorfor,hasTranslator,Person,Person
+682,murdered by,murderer of,Person,Person
+2,place of birth,,Person,Place
+18,place of death,,Person,Place
+52,arbeitet in dem Ort,ist Arbeitsort von,Person,Place
+121,located in,,Person,Place
+161,died in,,Person,Place
+172,born in,,Person,Place
+681,located in >> buried in,buryplace of,Person,Place
+686,commander of,commanded by,Person,Place
+687,sanjakbey of,ruled by sanjakbey,Person,Place
+688,beylerbey of,ruled by beylerbey,Person,Place
+665,erschaffen von,erschaffen durch,Person,Work
+666,erinnert durch,erinnert an,Person,Work
+668,moved,moved by,Person,Work
+709,hat teilgenommen an,hat teilgenommen an [REVERSE],Person,Event
+28,hat Untereinheit,hat Übereinheit,Institution,Institution
+29,hat Übereinheit,hat Untereinheit,Institution,Institution
+38,succeding,preceding,Institution,Institution
+65,preceding,succeeding,Institution,Institution
+100,wurde einverleibt in,hat einverleibt,Institution,Institution
+173,Untereinheit von,hat Untereinheit,Institution,Institution
+217,im Sprengel von,Sprengel beinhaltet,Institution,Institution
+539,Ist Unterbegriff von (Register),Ist Oberbegriff von (Register),Institution,Institution
+659,Gegenbotschaft zu,Gegenbotschaft zu,Institution,Institution
+17,located in,location of,Institution,Place
+476,governs,is_governed_by,Institution,Place
+598,Ist Unterbegriff von (Register),Ist Unterbegriff von (Register) [REVERSE],Institution,Place
+6,located in,,Place,Place
+593,successor of,succeeded by,Place,Place
+669,close to,close to,Place,Place
+703,distinct to,distinct to [REVERSE],Place,Place
+689,place of (event),takes place in,Place,Event
+667,location of,located in,Place,Work
